@@ -2,6 +2,6 @@
 <p align="right">
   <sub><i>art by Jaxens: @jaxenstheginger on <a href="https://twitter.com/jaxenstheginger">twitter</a></i></sub>
 </p>
-<p align="center">
+<p align="right">
   <sub><i><a href="https://open.spotify.com/playlist/7urrgPtTq7rzaZb5eQU13Q?si=698fad1f01a24a7f">my tokyo ghoul playlist.</a></i></sub>
 </p>
